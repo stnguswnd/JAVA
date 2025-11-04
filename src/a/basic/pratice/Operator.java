@@ -1,4 +1,4 @@
-package a.basic;
+package a.basic.pratice;
 
 public class Operator {
     public static void main(String[] args) {
