@@ -1,6 +1,6 @@
-package a.basic;
+package a.basic.practice2;
 
-public class practice_2 {
+public class Practice1 {
     public static void main(String[] args) {
 
         // 문제 1: 구구단

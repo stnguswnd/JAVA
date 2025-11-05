@@ -1,6 +1,6 @@
-package a.basic;
+package a.basic.pratice1;
 
-public class Practice_day1 {
+public class Practice1 {
     public static void main(String[] args) {
         //practice_1
         int num = 17;
